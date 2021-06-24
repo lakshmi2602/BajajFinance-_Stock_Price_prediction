@@ -1,7 +1,7 @@
 # BajajFinance-_Stock_Price_prediction
 # Creating model to predict Stock Price
 # Problem Statement:
-# Predict Prices of a Stock:  Develop time series forecasting models to predict future Stock prices
+ Predict Prices of a Stock:  Develop time series forecasting models to predict future Stock prices
 
 
 # Conclusion:
