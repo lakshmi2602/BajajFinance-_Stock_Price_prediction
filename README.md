@@ -1,6 +1,6 @@
 # BajajFinance-_Stock_Price_prediction
 
-# Problem Statemen:
+# Problem Statement:
  Predict Prices of a Stock:  Develop time series forecasting models to predict future Stock prices
 
 
